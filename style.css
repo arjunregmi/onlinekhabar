@@ -2304,3 +2304,12 @@ li {
 a {
   color: white !important;
 }
+
+#black {
+  color: black !important;
+}
+
+.font {
+  font-weight: bold;
+  color: burlywood !important;
+}
